@@ -170,7 +170,7 @@ python manage.py runserver
 
 
 
-## 👨‍💻 Author
+## Author
 
 Built as part of a backend internship assignment to demonstrate API design, business logic handling, and clean code structure.
 
